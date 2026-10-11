@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/PyVenvManage/commit/754fc1a3b7afedd0776e81777efc2d7b7241fea9",
       "git:hexsha": "754fc1a3b7afedd0776e81777efc2d7b7241fea9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T03:07:25.431653+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/PyVenvManage/commit/5017084153180b2bda2723fe28932bef87d394e2",
